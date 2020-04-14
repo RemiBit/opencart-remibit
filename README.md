@@ -9,9 +9,8 @@ INSTALLATION AND CONFIGURATION
 
 ## Extension Download
 
-* Get the extension from opencart-remibit github
-* Select the Clone or download button
-* Select the Download ZIP link and download it to your computer
+* Get the extension from the opencart-remibit github Releases repository https://github.com/RemiBit/opencart-remibit/releases
+* Right click `opencart-remibit.ocmod.zip` and save it on your computer
 
 ## Module Installation
 
