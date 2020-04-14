@@ -13,7 +13,7 @@
 Go to `Extensions` > `Installer` > Upload `remibit.ocmod.zip`
 
 ##Module Configuration
-1. Go to `Extensions` > `Extensions` > Choose `Payment` from filter > enable RemiBit`
+1. Go to `Extensions` > `Extensions` > Choose `Payment` from filter > enable `RemiBit`
 2. Add the following information to RemiBit configuration form
 * ACCOUNT -> API Credentials & Keys
 * API Login ID
