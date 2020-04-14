@@ -13,7 +13,7 @@ INSTALLATION AND CONFIGURATION
 * Select the Clone or download button
 * Select the Download ZIP link and download it to your computer
 
-## Install module in OpenCart
+## Module Installation
 
 Go to `Extensions` > `Installer` > Upload `opencart-remibit.ocmod.zip`
 
