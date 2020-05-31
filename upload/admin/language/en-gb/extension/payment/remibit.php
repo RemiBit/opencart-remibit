@@ -17,7 +17,7 @@ $_['entry_getaway_url']         = 'Endpoint URL';
 $_['entry_status']              = 'Status';
 $_['entry_sort_order']          = 'Sort Order';
 $_['entry_order_status']        = 'Order Status';
-$_['entry_order_status_desc']   = '(Status of order after payment was successfully made)';
+$_['entry_order_status_desc']   = '(Status of order after payment successfully made)';
 
 // Help
 //$_['help_total']                = 'The checkout total the order must reach before this payment method becomes active.';
