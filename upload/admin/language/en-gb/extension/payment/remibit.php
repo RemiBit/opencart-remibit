@@ -12,8 +12,8 @@ $_['text_remibit']                 = '<a target="_BLANK" href="https://app.remib
 $_['entry_login_id']            = 'Login ID';
 $_['entry_transaction_key']     = 'Transaction Key';
 $_['entry_signature_key']       = 'Signature Key';
-$_['entry_md5_hash']            = 'MD5 Hash';
-$_['entry_getaway_url']         = 'End Point';
+$_['entry_md5_hash']            = 'MD5 Hash Value';
+$_['entry_getaway_url']         = 'Endpoint URL';
 $_['entry_status']              = 'Status';
 $_['entry_sort_order']          = 'Sort Order';
 $_['entry_order_status']        = 'Order Status';
