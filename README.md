@@ -26,7 +26,7 @@ Go to `Extensions` > `Installer` > Upload `opencart-remibit.ocmod.zip`
 * Login ID
 * Transaction Key
 * Signature Key
-* MD5 Hash
+* MD5 Hash Value
 
 4. Choose your desired Order Status (Completed)
 5. Choose Status `Enabled` and click on the Save button
